@@ -9,3 +9,5 @@ Some basic commands-
 6)git config --global user.email "   "
 7)git diff
 8)git status
+
+1]Now am gonna to edit something.
