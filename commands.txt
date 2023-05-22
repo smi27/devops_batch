@@ -1,0 +1,11 @@
+Some basic commands-
+
+1)git init
+2)git add <file_name>
+2)git commit -m "msg"
+3)git log
+4)git log --oneline
+5)git config --global user.name "   "
+6)git config --global user.email "   "
+7)git diff
+8)git status
